@@ -14,7 +14,7 @@ This project was built to:
 
 ---
 
-🗂 Folder Structure
+Folder Structure
 CustomDigitDataset/
 ├── data/ ← Stores generated binary files (images.bin, labels.bin)
 ├── src/ ← Source code files (main, verify)
@@ -33,7 +33,7 @@ SFML (Simple and Fast Multimedia Library)
 
 ---
 
-⚙ How to Use
+How to Use
 
 1. **Build the project** using CMake or your preferred compiler (with SFML linked).
 2. **Run the program** — a window will appear asking you to draw a digit (0–9).
